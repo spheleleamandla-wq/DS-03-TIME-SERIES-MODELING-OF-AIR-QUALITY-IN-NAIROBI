@@ -1,6 +1,7 @@
 # DS-03-TIME-SERIES-MODELING-OF-AIR-QUALITY-IN-NAIROBI
 Time series modeling of Nairobi air quality (PM2.5/AQI) using ARIMA, SARIMA &amp; Prophet. EDA, stationarity testing, and forecasting for public health insights.
 
+> DS 03 Time Series Modeling of Air Quality in Nairobi | Completed
 
 ## Overview
 Time series analysis and forecasting of air quality in Nairobi to predict PM2.5 and AQI levels for public health planning.
